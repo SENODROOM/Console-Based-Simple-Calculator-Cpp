@@ -212,7 +212,7 @@ Upon launching, you'll be greeted with an elegant menu featuring **44 operations
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║         ULTIMATE SCIENTIFIC CALCULATOR v3.0                    ║
+║                 ULTIMATE SCIENTIFIC CALCULATOR                 ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ┌─── Basic Operations ───┐
