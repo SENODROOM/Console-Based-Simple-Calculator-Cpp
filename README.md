@@ -114,7 +114,7 @@ Choose from three beautiful color themes:
 ```
 
 - Beautiful Unicode box-drawing characters
-- Color-coded outputs for instant recognition
+- Color-coded outputs for instant recognition and aesthetics
 - Professional formatting with elegant borders
 
 ---
