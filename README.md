@@ -114,7 +114,7 @@ Choose from three beautiful color themes:
 ```
 
 - Beautiful Unicode box-drawing characters
-- Color-coded outputs for instant recognition
+- Color-coded outputs for instant recognition and aesthetics
 - Professional formatting with elegant borders
 
 ---
@@ -212,7 +212,7 @@ Upon launching, you'll be greeted with an elegant menu featuring **44 operations
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║         ULTIMATE SCIENTIFIC CALCULATOR v3.0                    ║
+║                 ULTIMATE SCIENTIFIC CALCULATOR                 ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ┌─── Basic Operations ───┐
